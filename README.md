@@ -6,7 +6,7 @@
 
 **BS Computer Systems Engineering, UET Peshawar**
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/muddasirak/))
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muddasirak/))
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
