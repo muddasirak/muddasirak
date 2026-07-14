@@ -1,75 +1,78 @@
 <div align="center">
 
-# Hi there, I'm Muddasir Ahmad Khan 👋
+# Muddasir Ahmad Khan
 
-### 💻 Software Developer | Java • Python • C/C++ • Linux • Web Development
+### Software Developer · Systems & Backend Focus
 
-📍 Peshawar, Pakistan  
-🌱 Passionate about Software Engineering, Backend Development, System Programming & Open Source
+**BS Computer Systems Engineering, UET Peshawar**
 
-<img src="https://komarev.com/ghpvc/?username=muddasirak&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I'm a passionate Software Developer who enjoys building efficient, scalable, and practical software solutions. I love learning new technologies, solving complex problems, and continuously improving my programming skills.
+I'm a Computer Systems Engineering student at UET Peshawar with a focus on operating systems, computer networks, and algorithm design. I enjoy building things close to the metal — process schedulers, custom shells, and network simulations — and I'm working toward a career in backend and systems software engineering.
 
-- 🔭 Currently working on **C/C++ System Programming Projects**
-- 🌱 Learning **Operating Systems, Networking & Backend Development**
-- 💻 Interested in **Software Engineering, Linux, Distributed Systems**
-- 🎯 Goal: Become a **Backend / Systems Software Engineer**
-- ⚡ I enjoy turning ideas into real-world applications.
+- 🎓 BS Computer Systems Engineering, UET Peshawar
+- 🧠 Coursework: Operating Systems, Computer Networks, Data Structures & Algorithms
+- 🔧 Interests: Systems programming, Linux internals, backend development, networking
+- 🎯 Goal: Backend / Systems Software Engineer
 
 ---
 
-# 🚀 Technologies & Tools
+## Technical Skills
 
-### Programming Languages
+**Languages:** C, C++, Java, Python, JavaScript
 
-<p align="left">
+**Systems & Networking:** Linux, POSIX system calls, process scheduling, Cisco Packet Tracer, IoT networking
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
+**Web:** HTML, CSS, Bootstrap, Node.js
 
-</p>
+**Databases:** MySQL
 
-### Web Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
-
-</p>
-
-### Frameworks & Libraries
+**Tools:** Git, GitHub, VS Code, Bash, CMake
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
-### Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-### Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cmake"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,bootstrap,nodejs,mysql,git,github,vscode,linux,bash,cmake" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## Featured Projects
+
+### 🐚 Mini Linux Shell with Process Scheduler
+*C · Operating Systems (CSE-204L)*
+
+A custom Unix shell implementing core OS concepts from the ground up, built with a teammate.
+
+- Core POSIX system calls: `fork()`, `execvp()`, `waitpid()`, `pipe()`
+- FCFS and Round Robin process scheduling
+- Pipe-based command chaining, background job handling, and signal handling
+
+### 🗺️ Shortest Paths: Dijkstra's & Yen's K-Shortest Paths
+*Python · Data Structures & Algorithms (Open Ended Lab)*
+
+An implementation exploring single-source and k-shortest-path algorithms, focused on correctness and a deep understanding of the underlying algorithm design.
+
+- Dijkstra's Algorithm for single-source shortest paths
+- Yen's Algorithm for k-shortest loopless paths
+
+### 🌱 Smart Agriculture Monitoring Network
+*Cisco Packet Tracer · Computer Networks*
+
+An IoT network design for agricultural monitoring, simulating real-world sensor-to-dashboard data flow.
+
+- Temperature, humidity, and water-level sensors
+- DLC-100 Home Gateway and IoT server integration
+- Web dashboard for real-time monitoring
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -83,156 +86,14 @@ I'm a passionate Software Developer who enjoys building efficient, scalable, and
 
 ---
 
-# 🏆 GitHub Trophies
+## Currently Learning
 
-![](https://github-profile-trophy.vercel.app/?username=muddasirak&theme=darkhub&no-frame=true&margin-w=10&row=1)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=muddasirak&theme=github-compact)
-
----
-
-# 🚀 Featured Projects
-
-### 🔹 Mini-Shell
-
-A custom Unix shell written in C implementing process management, command execution, pipes, redirections, and shell utilities.
-
----
-
-### 🔹 Boost.Asio Port Scanner
-
-A multithreaded TCP port scanner built using Boost.Asio for high-performance asynchronous networking.
-
----
-
-### 🔹 More Projects Coming Soon...
-
-- Backend APIs
-- Linux Utilities
-- Networking Applications
-- Java Desktop Applications
-- Python Automation Tools
-
----
-
-# 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- Database Systems
-- Linux System Programming
-- Boost Libraries
-- Modern C++
-- Backend Development
-- Software Design Patterns
-
----
-
-# 💼 What I Do
-
-✔ Backend Development
-
-✔ Linux Programming
-
-✔ Object-Oriented Programming
-
-✔ REST API Development
-
-✔ Command Line Applications
-
-✔ Networking Applications
-
-✔ Software Architecture
-
-✔ Problem Solving
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://khybercoded.com">
-<img src="https://skillicons.dev/icons?i=devto"/>
-</a>
-
-</p>
-
----
-
-# 💡 Favorite Quote
-
-> "First, solve the problem. Then, write the code." — John Johnson
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Modern C++
-- ✅ Learn Advanced Java
-- ✅ Build Large Backend Projects
-- ✅ Contribute to Open Source
-- ✅ Master Linux Development
-- ✅ Learn Docker & Kubernetes
-- ✅ Improve DSA Skills
-- ✅ Land a Software Engineering Role
-
----
-
-# ⚙️ Development Environment
-
-```cpp
-class SoftwareDeveloper
-{
-public:
-
-    string name = "Muddasir Ahmad Khan";
-
-    vector<string> languages = {
-        "C",
-        "C++",
-        "Java",
-        "Python",
-        "JavaScript"
-    };
-
-    vector<string> interests = {
-        "Software Engineering",
-        "Backend Development",
-        "Linux",
-        "Networking",
-        "System Programming"
-    };
-
-    string editor = "VS Code";
-
-    string operating_system = "Linux";
-
-    string motto = "Code • Learn • Build • Repeat";
-};
-```
+Operating Systems · Computer Networks · Data Structures & Algorithms · Linux System Programming · Modern C++ · Backend Development
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-Happy Coding! 🚀
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
